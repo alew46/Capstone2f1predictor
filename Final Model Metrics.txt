@@ -1,0 +1,16 @@
+Final Model Metrics
+
+scikitlearn GradientBoostingClassifier
+
+Paramaters:
+    subsample=0.8
+    learning_rate=0.05
+    n_estimators=160
+    max_depth=9
+    max_leaf_nodes=100
+    
+Scoring:
+    Mean cross validation test score: 0.4959731543624161
+    Mean cross validation train score: 0.5315107913669065
+    Standard deviation in cv test scores: 0.016630217038072295
+    Accuracy score on test data: 0.512081
